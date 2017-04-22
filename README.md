@@ -1,5 +1,5 @@
 # ReactNativeViewAppIntro
-basic view intro app in react native
+
 ===================================
 
 
