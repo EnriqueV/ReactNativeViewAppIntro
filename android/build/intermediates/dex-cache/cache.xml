@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_f04efa4394a953fec87e11ab5b81303813211ecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_b516e3c5bdbc3088fe4348062506915eb5ec7f3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_c0ea2b6835676df19f13852c40781928aacc268e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_eb290bc977c6cfb54e566b9e200eadedfdd53d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_0c76b8eca5ddc96cb33413665d2e5b37606f56b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_d0e4239c51ff38fa3695276510373f794bb6b84e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_585d447710eea23a8faeac14499f0aabe2d541f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_c6eb8dd3fcfe710c84fd26bdd8744eebb33f5812.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.4/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_33105d08f2ba81ffdaea311f895a977412df0f81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_ef371276035f2b6e0a56ba469b791e328dd8d19b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_52b7fdf4938c9cccafdaa7ed21903e887ef6e214.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_a872f5d71f2a5fbd595a232f0accc03f892ab2e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_2243bae1a4cd8cf6294ce974e2575ca0bdc67689.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_b1a9e652eb44684e17e10745be940cb7000727d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_13dec639ece207199b244e6a9419c9d0e2460387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_c5055c81bab4bb40b4e2c784b69a0b77fe96e0a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_6dcb53d76b0ae8c3c4f018faef38ee591fc15889.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_ca69d7fbd25764d1d461fce28d99247be570b158.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.43.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="28964a93b5eafbe660a5b51e5964d2e66aa45395">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.43.4_93f0b3cf3e2f72a62f549a77d8b893b4e6167328.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_de94bdcb219fbf1450d5c62d3d76d2205a61deba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_ec6aa859975f3f9ae129ecccc07d493239198bee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_a58d3dd35f0f9a31896af875236983cdece3105d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/eduardogomez/Documents/reactApps/OpenInvent/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_b9e587b69ad2dbf1573ad35fb40e94b376a871b6.jar" />
+    </item>
+
+</items>
